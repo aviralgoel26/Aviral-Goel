@@ -8,17 +8,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0099FF&center=true&vCenter=true&width=435&lines=I+love+building+clean%2C+scalable+systems.;Cloud+%2F+Backend+Developer+%7C+AWS+Explorer.;Always+learning+new+technologies!+%F0%9F%93%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C7FF&center=true&vCenter=true&width=435&lines=I+love+building+clean%2C+scalable+systems.;Cloud+%2F+Backend+Developer+%7C+AWS+Explorer.;Always+learning+new+technologies!+%F0%9F%93%96" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🌟 **Aspiring Full Stack Developer** (Backend Focus)  
-- 🌱 Currently exploring **Spring Boot, Cloud Computing (AWS), and AI**  
-- 🛠️ Passionate about building **clean code & scalable solutions**  
-- ☕ Debugging with coffee makes everything better!  
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AviralGoel&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
@@ -36,22 +34,36 @@
 
 ---
 
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AviralGoel&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AviralGoel&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AviralGoel&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+## 🗓️ Contribution Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=AviralGoel&theme=github" />
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://github.com/AviralGoel/AviralGoel/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## 🚀 Projects
 - 🔗 **Women Safety AI** – *Smart Travel Route Recommendation System for safer navigation*
 - 🔗 **To-Do App** – *Cloud-based task manager using AWS Lambda, S3, and DynamoDB*
 - 🔗 **Intelligent CPU Scheduler Simulator** – *Java-based visualizer for CPU scheduling algorithms*
 - 🔗 **Smart Home Manager Chatbot** – *AI-powered chatbot for home automation*
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AviralGoel&show_icons=true&theme=gruvbox&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AviralGoel&theme=gruvbox&hide_border=true" height="160" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AviralGoel&layout=compact&theme=gruvbox&hide_border=true" height="140" />
-</p>
 
 ---
 
@@ -65,11 +77,9 @@
 
 ## 📬 Let’s Connect
 <p align="center">
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-29ABE2?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="mailto:aviralgoel9th@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/aviralgoel26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://codolio.com./av](https://codolio.com/profile/AviralGoel26)"><img src="https://img.shields.io/badge/Portfolio-29ABE2?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 ---
-
-⭐ *If you like this profile, don’t forget to star ⭐ this repo or fork it to make it your own!*
