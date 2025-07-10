@@ -1,1 +1,75 @@
-# Aviral-Goel
+<!-- Profile Header -->
+<h1 align="center" style="font-family:Verdana;">
+  👋 Hi there, I'm <span style="color:#1DA1F2;">Aviral Goel</span>
+</h1>
+<p align="center">
+  💻 <b>Python | Java | C/C++ | SQL | AWS Enthusiast</b> <br>
+  🚀 Backend Developer | Cloud Computing Learner | Tech Explorer 🌱 <br>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0099FF&center=true&vCenter=true&width=435&lines=I+love+building+clean%2C+scalable+systems.;Cloud+%2F+Backend+Developer+%7C+AWS+Explorer.;Always+learning+new+technologies!+%F0%9F%93%96" alt="Typing SVG" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🌟 **Aspiring Full Stack Developer** (Backend Focus)  
+- 🌱 Currently exploring **Spring Boot, Cloud Computing (AWS), and AI**  
+- 🛠️ Passionate about building **clean code & scalable solutions**  
+- ☕ Debugging with coffee makes everything better!  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Projects
+- 🔗 **Women Safety AI** – *Smart Travel Route Recommendation System for safer navigation*
+- 🔗 **To-Do App** – *Cloud-based task manager using AWS Lambda, S3, and DynamoDB*
+- 🔗 **Intelligent CPU Scheduler Simulator** – *Java-based visualizer for CPU scheduling algorithms*
+- 🔗 **Smart Home Manager Chatbot** – *AI-powered chatbot for home automation*
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AviralGoel&show_icons=true&theme=gruvbox&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AviralGoel&theme=gruvbox&hide_border=true" height="160" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AviralGoel&layout=compact&theme=gruvbox&hide_border=true" height="140" />
+</p>
+
+---
+
+## 🎯 Fun Facts
+- 🎧 Code flows smoother with Lo-Fi beats
+- 🧠 I think in classes and functions
+- 🧩 Love solving DSA puzzles and debugging weird bugs
+- ☕ Never says no to a coffee break during coding!
+
+---
+
+## 📬 Let’s Connect
+<p align="center">
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-29ABE2?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ *If you like this profile, don’t forget to star ⭐ this repo or fork it to make it your own!*
